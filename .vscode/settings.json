@@ -1,5 +1,9 @@
 {
     "cSpell.words": [
         "mypage"
-    ]
+    ],
+    "emmet.includeLanguages": {
+        "django-html": ""
+    
+    }
 }
